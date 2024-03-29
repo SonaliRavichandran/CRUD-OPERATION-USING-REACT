@@ -1,0 +1,19 @@
+CRUD OPERATION
+-----------------------------------------------
+Fisrt make sure You have intsall react and express js packages
+
+next 
+    --->Run the server by using command
+    --->Go to terminal and get into project folder and then put a command
+    --->cd server and then
+    --->npm start
+
+
+next
+    --->Run the app by using command
+    --->Go to terminal and get into project and then put a comment
+    --->cd client and then
+    --->npm run dev
+    --->Follow the local link by pressing and control and click
+
+    
