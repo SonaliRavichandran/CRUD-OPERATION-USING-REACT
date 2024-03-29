@@ -2,14 +2,15 @@ CRUD OPERATION
 -----------------------------------------------
 Fisrt make sure You have intsall react and express js packages
 
-next 
+next -1 st Terminal
     --->Run the server by using command
     --->Go to terminal and get into project folder and then put a command
     --->cd server and then
     --->npm start
 
+Simultaneously
 
-next
+next -2 nd Terminal
     --->Run the app by using command
     --->Go to terminal and get into project and then put a comment
     --->cd client and then
