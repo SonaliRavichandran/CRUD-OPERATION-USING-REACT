@@ -1,0 +1,22 @@
+npm init -y-->json file  create
+
+npm i express cors->express install
+
+npm i nodemon -D--->refresh automaticallly
+
+
+react project
+
+npm craete vite@latest client
+yes
+react
+javascript
+
+client side--->
+cd .\client\
+npm install
+
+for api -->npm i axios
+
+run-->
+npm run dev
