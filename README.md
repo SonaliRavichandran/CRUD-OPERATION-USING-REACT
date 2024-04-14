@@ -1,6 +1,6 @@
 CRUD OPERATION
 -----------------------------------------------
-Fisrt make sure You have intsall react and express js packages
+Fisrt make sure You have install react and express js packages
 
 next -1 st Terminal
     --->Run the server by using command
